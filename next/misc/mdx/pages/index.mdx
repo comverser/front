@@ -1,0 +1,47 @@
+# Setup
+
+---
+
+### [Using MDX with Next.js](https://nextjs.org/docs/advanced-features/using-mdx)
+
+### VS Code Extension
+
+# MDX
+
+---
+
+import TestComp, { myDepositableAsset } from "../components/TestComp";
+
+### JSX
+
+<TestComp />
+
+<button onClick={() => alert("Alert test")}>test</button>
+
+<div style={{ color: "blue", background: "yellow" }}>
+  <div>{myDepositableAsset.address}</div>
+  <div>{myDepositableAsset.symbol}</div>
+</div>
+
+export const meta = {
+  company: "Mesher",
+};
+
+Company: {meta.company}
+
+### 이외 기능
+
+- Layouts 등
+
+### 일반
+
+```ts
+const test: DTO.DepositableAsset = {
+  address: "my-address",
+  symbol: "my-symbol",
+  depositedAmount: 10,
+  depositedValue: 100,
+  apy: 5,
+  apr: 6,
+};
+```

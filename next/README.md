@@ -6,3 +6,6 @@
 
 ### Auth
 - [Next-Auth](https://youtu.be/MqFL7HMI6hw)
+
+### Misc
+- [Next.js + MDX Crash Course](https://youtu.be/GIOPkcvv7-o)
