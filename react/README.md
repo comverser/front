@@ -42,6 +42,8 @@
 
 ### [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
 
+### [React Query Tutorial for Beginners vs Redux, Axios with CRUD Example](https://youtu.be/lLWfZL-Y8lM)
+
 
 ## Misc
 
