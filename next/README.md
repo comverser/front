@@ -9,3 +9,6 @@
 
 ### Misc
 - [Next.js + MDX Crash Course](https://youtu.be/GIOPkcvv7-o)
+
+### Web3 
+- [Build and Deploy a Web3 Blockchain Crowdfunding Platform (Kickstarter)](https://www.youtube.com/watch?v=BDCT6TYLYdI)
